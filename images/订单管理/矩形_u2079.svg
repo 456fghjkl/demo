@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="242px" height="78px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip233">
+      <path d="M 0.75 3.75  C 0.75 2.09314575  2.09314575 0.75  3.75 0.75  C 3.75 0.75  210.25 0.75  210.25 0.75  C 211.906854 0.75  213.25 2.09314575  213.25 3.75  C 213.25 3.75  213.25 46.25  213.25 46.25  C 213.25 47.9068542  211.906854 49.25  210.25 49.25  C 210.25 49.25  3.75 49.25  3.75 49.25  C 2.09314575 49.25  0.75 47.9068542  0.75 46.25  C 0.75 46.25  0.75 3.75  0.75 3.75  Z " fill-rule="evenodd" />
+    </mask>
+    <filter x="5277px" y="2128px" width="242px" height="78px" filterUnits="userSpaceOnUse" id="filter234">
+      <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="7" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.0470588235294118 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget235">
+      <path d="M 0.75 3.75  C 0.75 2.09314575  2.09314575 0.75  3.75 0.75  C 3.75 0.75  210.25 0.75  210.25 0.75  C 211.906854 0.75  213.25 2.09314575  213.25 3.75  C 213.25 3.75  213.25 46.25  213.25 46.25  C 213.25 47.9068542  211.906854 49.25  210.25 49.25  C 210.25 49.25  3.75 49.25  3.75 49.25  C 2.09314575 49.25  0.75 47.9068542  0.75 46.25  C 0.75 46.25  0.75 3.75  0.75 3.75  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" transform="matrix(1 0 0 1 5291 2139 )" />
+      <path d="M 0.75 3.75  C 0.75 2.09314575  2.09314575 0.75  3.75 0.75  C 3.75 0.75  210.25 0.75  210.25 0.75  C 211.906854 0.75  213.25 2.09314575  213.25 3.75  C 213.25 3.75  213.25 46.25  213.25 46.25  C 213.25 47.9068542  211.906854 49.25  210.25 49.25  C 210.25 49.25  3.75 49.25  3.75 49.25  C 2.09314575 49.25  0.75 47.9068542  0.75 46.25  C 0.75 46.25  0.75 3.75  0.75 3.75  Z " stroke-width="1" stroke="#dcdcdc" fill="none" transform="matrix(1 0 0 1 5291 2139 )" mask="url(#clip233)" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -5277 -2128 )">
+    <use xlink:href="#widget235" filter="url(#filter234)" />
+    <use xlink:href="#widget235" />
+  </g>
+</svg>
